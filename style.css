@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(52, 67, 101);
+    color: aliceblue;
+    text-align: center;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: auto 450px auto;
+}
+
+img {
+    width: 450px;
+    height: 250px;
+    padding: 5px;
+}
